@@ -5,3 +5,7 @@ end
 def meow
   puts "meow!"
 end
+
+maru.name
+
+maru.meow
